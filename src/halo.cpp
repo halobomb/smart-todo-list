@@ -1,5 +1,6 @@
 #include <iostream>
 
-public int da() {
+int da() {
     std::cout << "halo" << std::endl;
+
 }
